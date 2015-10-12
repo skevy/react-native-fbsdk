@@ -18,7 +18,7 @@
 
 #import "RCTFBSDKShareDialog.h"
 
-#import <RCTUtils.h>
+#import "RCTUtils.h"
 
 #import "RCTConvert+FBSDKSharingContent.h"
 

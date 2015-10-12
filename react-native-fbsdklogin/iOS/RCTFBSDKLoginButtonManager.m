@@ -18,10 +18,10 @@
 
 #import "RCTFBSDKLoginButtonManager.h"
 
-#import <RCTBridge.h>
-#import <RCTEventDispatcher.h>
-#import <RCTUtils.h>
-#import <UIView+React.h>
+#import "RCTBridge.h"
+#import "RCTEventDispatcher.h"
+#import "RCTUtils.h"
+#import "UIView+React.h"
 
 #import "RCTConvert+FBSDKLogin.h"
 

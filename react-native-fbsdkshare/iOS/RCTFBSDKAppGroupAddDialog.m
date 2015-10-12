@@ -18,8 +18,8 @@
 
 #import "RCTFBSDKAppGroupAddDialog.h"
 
-#import <RCTConvert.h>
-#import <RCTUtils.h>
+#import "RCTConvert.h"
+#import "RCTUtils.h"
 
 @implementation RCTConvert (FBSDKAppGroupAddDialog)
 

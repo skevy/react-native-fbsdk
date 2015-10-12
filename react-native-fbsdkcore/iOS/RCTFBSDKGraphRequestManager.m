@@ -18,8 +18,8 @@
 
 #import "RCTFBSDKGraphRequestManager.h"
 
-#import <RCTConvert.h>
-#import <RCTUtils.h>
+#import "RCTConvert.h"
+#import "RCTUtils.h"
 
 #import "RCTFBSDKGraphRequestConnectionContainer.h"
 

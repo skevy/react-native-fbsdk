@@ -18,7 +18,7 @@
 
 #import "RCTFBSDKAppGroupJoinDialog.h"
 
-#import <RCTUtils.h>
+#import "RCTUtils.h"
 
 @implementation RCTFBSDKAppGroupJoinDialog
 {

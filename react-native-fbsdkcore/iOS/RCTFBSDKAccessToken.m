@@ -18,7 +18,7 @@
 
 #import "RCTFBSDKAccessToken.h"
 
-#import <RCTUtils.h>
+#import "RCTUtils.h"
 
 #import "RCTConvert+FBSDKAccessToken.h"
 
